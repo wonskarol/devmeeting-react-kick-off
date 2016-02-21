@@ -1,0 +1,2 @@
+export const SORT_LIST_NAME = "SORT_LIST_NAME";
+export const SORT_LIST_PRICE = "SORT_LIST_PRICE";

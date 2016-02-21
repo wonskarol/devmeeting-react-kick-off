@@ -1,0 +1,19 @@
+.ShopList table {
+	border-collapse: collapse;
+}
+
+.ShopList
+ th, td {
+	text-align: left;
+  padding: 8px;
+}
+
+.ShopList tr:nth-child(even) {
+	background-color: #f2f2f2
+}
+
+.ShopList th {
+  background-color: #4CAF50;
+  color: white;
+}
+  
